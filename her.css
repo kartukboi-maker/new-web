@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#all{
+    background-color: #F10C45;
+
+    padding: 30px;
+}
+#foryou{
+    background-image:url(happy.webp) ;
+    border-radius: 20px;
+    border: 10px;
+    padding: 100px;
+}
+#foryou3 {
+    background: lightsalmon;
+    padding: 30px;
+    border-radius: 50px;
+
+}
+#foryou3 {
+    font-family: cursive;
+}
+#laddu header nav ul {
+    display: flex;
+    padding: 20px;
+    gap: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+    text-decoration-thickness:4px ;
+    text-decoration-color:red ;
+    list-style:'💓';
+    align-items: center;
+    
+}
+#laddu header nav ul a {
+    font-size: 30px;
+    background-color: #FE2F4A;
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration-color:white ;
+    color: beige;
+
+}
+#laddu header nav ul span{
+    font-size: 40px;
+    margin-right:100px ;
+    margin-left: 100px;
+    background-color: pink;
+    padding: 40px;
+    border-radius: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#imoji{
+    margin-left: 650px;
+    font-size: 40px;
+}
+#bhola{
+    display: flex;
+    background-color: #F10C45;
+    padding: 80px;
+    font-size: 60px;
+    border-radius: 30px;
+}
+#bhola img{
+    border: 2px solid;
+    border-radius: 10px;
+}
+#foryou5{
+    padding: 30px;
+    border-radius: 40px;
+    background-color: #fe2c54;
+    font-family: cursive;
+}
+#img{
+    margin-left: 250px;
+}
